@@ -1,18 +1,18 @@
 [
   {
-    "remote": "cm",
-    "repository": "Cyanogenmod/android_device_cyanogen_msm8916-common",
+    "remote": "gh",
+    "repository": "dhinesh77/android_device_cyanogen_msm8916-common",
     "target_path": "device/cyanogen/msm8916-common"
-    "revision": "cm-14.1"
+    "revision": "cr-5.1"
   },
   {
-    "remote": "cm",
+    "remote": "gh",
     "repository": "Cyanogenmod/android_kernel_wingtech_msm8916",
     "target_path": "kernel/wingtech/msm8916"
     "revision": "cm-14.1"
   },
   {
-    "remote": "cm",
+    "remote": "gh",
     "repository": "Cyanogenmod/android_external_stlport",
     "target_path": "external/stlport"
     "revision": "cm-14.1"
