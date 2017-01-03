@@ -14,4 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/carbon.mk \
     $(LOCAL_DIR)/full_wt88047.mk
